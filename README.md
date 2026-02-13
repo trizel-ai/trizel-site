@@ -56,6 +56,15 @@ All such authority resides exclusively in designated institutional content repos
 ## Repository Contents
 
 - `index.html`: Static landing page for trizel-ai.com
+- `DOI.txt`: Canonical DOI reference for Claim-001
+- `CITATION.cff`: Citation metadata with DOI reference
+- `GOVERNANCE.md`: Governance registry with canonical DOI references
+
+## Canonical DOI Reference
+
+**Claim-001 DOI:** [10.5281/zenodo.18636150](https://doi.org/10.5281/zenodo.18636150)
+
+This DOI references an **immutable published snapshot** registered on Zenodo. The content referenced by this DOI is frozen and cannot be modified. Any updates to the content would require a new DOI version.
 
 ## Deployment
 
